@@ -6,4 +6,4 @@
 __pycache__/
 
 # Ignore VS Code workspace settings
-.vscode/
+.vscode/,
