@@ -1,0 +1,9 @@
+# Ignore environment folder
+/sarsbr/
+
+# Ignore Python cache files
+*.pyc
+__pycache__/
+
+# Ignore VS Code workspace settings
+.vscode/
